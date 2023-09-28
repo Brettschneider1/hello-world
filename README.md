@@ -1,6 +1,6 @@
 # hello-world
 "A place where I store ideas, resources, or even share and discuss things with others."
-# first Markdown use
+# First Markdown use
 This is the first time I am using Markdown. Therefore, the structure and implementation of different elements **might** suck a bit..
 ## 3 random quotes
 1. The only true wisdom is knowing you know nothing.
