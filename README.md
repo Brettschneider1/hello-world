@@ -5,6 +5,6 @@ This is the first time I am using Markdown. Therefore, the structure and impleme
 ## 3 random quotes
 1. The only true wisdom is knowing you know nothing.
 2. Two things are infinite: The universe and human stupidity; and I´m not sure about the universe.
-3. [Tis better to shit in the sink than to...](https://www.reddit.com/r/memes/comments/qofeie/making_fake_sun_tzu_quotes_day_one/)
+3. [Its better to shit in the sink than to...](https://www.reddit.com/r/memes/comments/qofeie/making_fake_sun_tzu_quotes_day_one/)
 ### Time to get finished
-> I spend way to much time on this.
+> Let´s do a pull request..
